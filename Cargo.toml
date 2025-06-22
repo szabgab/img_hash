@@ -12,7 +12,7 @@ documentation = "http://docs.rs/img_hash"
 
 keywords = ["image", "hash", "perceptual", "difference"]
 
-repository = "http://github.com/abonander/img_hash"
+repository = "https://github.com/abonander/img_hash"
 
 edition = "2015"
 
